@@ -1,7 +1,3 @@
-Here's the revised README with "I" instead of "we" and condensed for repeatability:  
-
----
-
 # Racetrack Reinforcement Learning  
 
 This project implements reinforcement learning to solve the Racetrack problem using the Monte Carlo method. The agent learns to navigate a simulated racetrack by optimizing its policy based on cumulative rewards. A simple and complex track are used for comparison.  
