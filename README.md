@@ -37,7 +37,7 @@ The `MonteCarloAgent` follows an **epsilon-greedy** policy:
    ```bash
    python main.py
    ```  
-3. Results are saved in `results/main/` and `results/modified/`.  
+3. Results are saved in `results/main` and `results/modified`.  
 
 ## Outputs  
 - **Track visualizations**: Images of both tracks.  
